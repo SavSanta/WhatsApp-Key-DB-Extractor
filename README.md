@@ -35,19 +35,19 @@ v5.1 - Support Crypt15.
 
 
 ## PREREQUISITES:
- 1. O/S: Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS X or Linux  
+ 1. O/S: Windows 10, Windows 11, Mac OS X or Linux  
  2. Java - If not installed: https://www.java.com/en/download/  
- 3. ADB (Android Debug Bridge) Drivers  
+ 3. ADB (Android Debug Bridge) Drivers: https://developer.android.com/tools/releases/platform-tools
  4. USB Debugging must be enabled on the target device. Settings -> Developer Options -> (Debugging) USB debugging  
      If you cannot find Developer Options then please go to: Settings -> About phone/device and tap the Build number  
      multiple times until you're finally declared a developer.  
- 5. Android device with Android 4.0 or higher. I.E. Ice Cream Sandwich, Jelly Bean, KitKat, Lollipop, Marshmallow or Nougat.  
+ 5. Android device running version 4.0 or higher, but lower than Android 14.
 
 
 ## INSTRUCTIONS:
  1. Extract "WhatsApp-Key-DB-Extractor-master.zip" maintaining the directory structure.  
  2. Click on "WhatsAppKeyDBExtract.bat" (Windows) or "WhatsAppKeyDBExtract.sh" (Mac OS X / Linux).  
- 3. Connect your device via USB, unlock your screen and wait for "Full backup" to appear.  
+ 3. Connect your device via USB, unlock your screen and wait for "Full backup" or the permission request screen to appear.  
  4. Enter your backup password or leave blank (if none set) and tap on "Back up my data".  
  5. Confirm backup password in your command console and then check your "extracted" folder.  
  
@@ -65,7 +65,8 @@ v5.1 - Support Crypt15.
 
 
 ## CREDITS:
-AUTHOR: TripCode  
+AUTHOR: TripCode
+MAINTAINER: KnugiHK
 THANKS: dragomerlin for Android Backup Extractor and Abinash Bishoyi for being cool.  
 abe.jar by nelenkov and its contributors.  
 tar.exe, grep.exe, regex2.dll, libintl3.dll, libiconv2.dll by Free Software Foundation and its contributors.  
