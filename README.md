@@ -68,8 +68,8 @@ v5.4 - Updated the binaries for ABE and CURL.
 
 
 ## CREDITS:
-AUTHOR: TripCode
-MAINTAINER: KnugiHK
+AUTHOR: TripCode  
+MAINTAINER: KnugiHK  
 THANKS: dragomerlin for Android Backup Extractor and Abinash Bishoyi for being cool.  
 abe.jar by nelenkov and its contributors.  
 tar.exe, grep.exe, regex2.dll, libintl3.dll, libiconv2.dll by Free Software Foundation and its contributors.  
