@@ -25,7 +25,7 @@ echo -e "
 = be restored at the end of the extraction process so try not to panic. =
 = Script by: TripCode (Greets to all who visit: XDA Developers Forums). =
 = Thanks to: dragomerlin for ABE and to Abinash Bishoyi for being cool. =
-=         ###          Version: v5.1 (22/02/2022)          ###          =
+=         ###          Version: v5.4 (14/01/2025)          ###          =
 =========================================================================
 "
 if (($is_adb == 0)); then

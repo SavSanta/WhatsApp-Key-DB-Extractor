@@ -30,8 +30,11 @@ v4.4 - Changed primary mirror for legacy apk.
 v4.5 - Fixed issue pushing cipher key to emulated storage.  
 v4.6 - Updated primary mirror for legacy apk (again).  
 v4.7 - Added new sanity checks and support for Android API 24 (7.0 Nougat).  
-v5.0 - Fix the link of legacy apk.  
-v5.1 - Support Crypt15.
+v5.0 - Fixed the link of legacy apk.  
+v5.1 - Added support for Crypt15.
+v5.2 - Fixed the link of legacy apk.
+v5.3 - Added a pause for users accepting the permissions request.
+v5.4 - Updated the binaries for ABE and CURL.
 
 
 ## PREREQUISITES:

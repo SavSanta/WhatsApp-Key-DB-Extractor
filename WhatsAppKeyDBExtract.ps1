@@ -1,4 +1,4 @@
-$Host.UI.RawUI.WindowTitle = "WhatsApp Key/DB Extractor 4.7 (Official)"
+$Host.UI.RawUI.WindowTitle = "WhatsApp Key/DB Extractor 5.4 (Official)"
 Function TerminateWithReason([String] $reason)
 {
 "`r`n$reason`r`n`r`nExiting...`r`n"
@@ -15,7 +15,7 @@ exit
 "= be restored at the end of the extraction process so try not to panic. ="
 "= Script by: TripCode (Greets to all who visit: XDA Developers Forums). ="
 "= Thanks to: dragomerlin for ABE and to Abinash Bishoyi for being cool. ="
-"=         ###          Version: v5.1 (22/02/2022)          ###          ="
+"=         ###          Version: v5.4 (14/01/2025)          ###          ="
 "=========================================================================`r`n"
 If (!(Test-Path "bin"))
 {
