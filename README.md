@@ -44,7 +44,7 @@ v5.4 - Updated the binaries for ABE and CURL.
  4. USB Debugging must be enabled on the target device. Settings -> Developer Options -> (Debugging) USB debugging  
      If you cannot find Developer Options then please go to: Settings -> About phone/device and tap the Build number  
      multiple times until you're finally declared a developer.  
- 5. Android device running version 4.0 or higher, but lower than Android 14.
+ 5. Android device running version 4.0 to 13.
 
 
 ## INSTRUCTIONS:
