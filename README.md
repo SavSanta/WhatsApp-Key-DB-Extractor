@@ -11,7 +11,7 @@ Allows WhatsApp users to extract their cipher key and databases on non-rooted An
 > **By default, this script use the old WhatsApp APK from WhatsApp.com (in Web Archive), use it at your own risk.**  
 
 > [!IMPORTANT]
-> Always create a backup through the official WhatsApp app if possible before trying or you risk lossing all your data...
+> Always create a backup through the official WhatsApp app if possible before trying or you risk losing all your data...
 
 ## APK Integrity
 Checksum are as follows:
